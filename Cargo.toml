@@ -2,7 +2,7 @@
 name = "bitdesk"
 version = "1.2.4"
 authors = ["fellipe <fellipe.nunes@bithelp.com.br>"]
-edition = "2023"
+edition = "2021"
 build= "build.rs"
 description = "Software de controle remoto."
 default-run = "bitdesk"
